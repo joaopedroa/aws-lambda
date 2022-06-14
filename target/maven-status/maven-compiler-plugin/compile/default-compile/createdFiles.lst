@@ -1,0 +1,4 @@
+br\com\itau\handlers\services\SnsService.class
+br\com\itau\handlers\JokerHandler.class
+br\com\itau\handlers\services\JokerService.class
+br\com\itau\handlers\domains\Joker.class
